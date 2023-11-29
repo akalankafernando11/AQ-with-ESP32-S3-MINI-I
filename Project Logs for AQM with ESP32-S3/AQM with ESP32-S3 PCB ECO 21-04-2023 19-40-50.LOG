@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=IO48 Pin=P13-14
-Change Component Footprint: Designator=P16 Old Footprint=HDR1X2 New Footprint=HDR1X3
-Change Component Footprint: Designator=P13 Old Footprint=HDR1X14 New Footprint=HDR1X13
-Change Component Comment : Designator=P16 Old Comment=Header 2 New Comment=Header 3
-Change Component Comment : Designator=P13 Old Comment=Header 14 New Comment=Header 13
-Added Pin To Net: NetName=IO48 Pin=P16-3
-Added Room: Name=AQM with esp32
-Added Room: Name=ESP32-S3 module
