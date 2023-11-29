@@ -1,0 +1,165 @@
+Removed Pin From Net: NetName=VDD3.3V Pin=P12-1
+Removed Pin From Net: NetName=TX1 Pin=P12-2
+Removed Pin From Net: NetName=RX1 Pin=P12-3
+Removed Pin From Net: NetName=IO26 Pin=P12-4
+Removed Pin From Net: NetName=IO47 Pin=P12-5
+Removed Pin From Net: NetName=IO48 Pin=P12-6
+Removed Pin From Net: NetName=RESET Pin=P12-7
+Removed Pin From Net: NetName=IO46 Pin=P12-8
+Removed Pin From Net: NetName=IO45 Pin=P12-9
+Removed Pin From Net: NetName=RXD0 Pin=P12-10
+Removed Pin From Net: NetName=TXD0 Pin=P12-11
+Removed Pin From Net: NetName=IO42 Pin=P12-12
+Removed Pin From Net: NetName=IO41 Pin=P12-13
+Removed Pin From Net: NetName=IO40 Pin=P12-14
+Removed Pin From Net: NetName=TX Pin=P12-15
+Removed Pin From Net: NetName=RX Pin=P12-16
+Removed Pin From Net: NetName=MISO Pin=P12-17
+Removed Pin From Net: NetName=SCK Pin=P12-18
+Removed Pin From Net: NetName=MOSI Pin=P12-19
+Change component parameters: Designator = "R3"; Footprint = "RESC1608X55X25LL10T15"; UniqueID = "\PUJMFYBA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/11808/0900766b80f96399-11808177.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810161617_YAGEO-RC0603FR-07470RL_C114669.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114669"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RC0603FR-07470RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\ELDYHIYJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C60490"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\IFGUBXCG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C60490"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "RESC1005X40X25NL05T10"; UniqueID = "\PPGRSZVE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1809291220_YAGEO-RC0402FR-07100KL_C60491.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C60491"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr.Part #"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "RESC1005X40X25NL05T10"; UniqueID = "\AFSELZPP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1809291220_YAGEO-RC0402FR-07100KL_C60491.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C60491"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr.Part #"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "RESC1005X40X25NL05T10"; UniqueID = "\FOWWEHYA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1809201112_YAGEO-RC0402FR-075K1L_C105872.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C105872"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RC0402FR-075K1L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11"; Footprint = "RESC1005X40X25NL05T10"; UniqueID = "\ABZTDYKN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1809201123_YAGEO-RC0402FR-071ML_C138033.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C138033"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RC0402FR-071ML"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1MO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12"; Footprint = "RESC1005X40X25NL05T10"; UniqueID = "\GXLWWCMQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1809201112_YAGEO-RC0402FR-075K1L_C105872.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C105872"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RC0402FR-075K1L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13"; Footprint = "RESC1005X40X25NL05T10"; UniqueID = "\QDTZABZO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1809201112_YAGEO-RC0402FR-075K1L_C105872.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C105872"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RC0402FR-075K1L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14"; Footprint = "RESC1005X40X25NL05T10"; UniqueID = "\UBSDRNSI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1809201112_YAGEO-RC0402FR-075K1L_C105872.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C105872"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RC0402FR-075K1L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15"; Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\ITNAMGWR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1809301715_YAGEO-RC0402FR-0710KL_C60490.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C60490"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16"; Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\YXLRZXSO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1809301715_YAGEO-RC0402FR-0710KL_C60490.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C60490"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17"; Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\BLOUYERQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1809301715_YAGEO-RC0402FR-0710KL_C60490.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C60490"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18"; Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\OPRIKSVF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1809301715_YAGEO-RC0402FR-0710KL_C60490.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C60490"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET Pin=P12-1
+Added Pin To Net: NetName=IO46 Pin=P12-2
+Added Pin To Net: NetName=IO45 Pin=P12-3
+Added Pin To Net: NetName=RXD0 Pin=P12-4
+Added Pin To Net: NetName=TXD0 Pin=P12-5
+Added Pin To Net: NetName=IO42 Pin=P12-6
+Added Pin To Net: NetName=IO41 Pin=P12-7
+Added Pin To Net: NetName=IO40 Pin=P12-8
+Added Pin To Net: NetName=TX Pin=P12-9
+Added Pin To Net: NetName=RX Pin=P12-10
+Added Pin To Net: NetName=MISO Pin=P12-11
+Added Pin To Net: NetName=SCK Pin=P12-12
+Added Pin To Net: NetName=MOSI Pin=P12-13
+Added Pin To Net: NetName=IO48 Pin=P12-14
+Added Pin To Net: NetName=IO47 Pin=P12-15
+Added Pin To Net: NetName=IO26 Pin=P12-16
+Added Pin To Net: NetName=RX1 Pin=P12-17
+Added Pin To Net: NetName=TX1 Pin=P12-18
+Added Pin To Net: NetName=VDD3.3V Pin=P12-19
+Added Room: Name=AQM with esp32
+Added Room: Name=ESP32-S3 module

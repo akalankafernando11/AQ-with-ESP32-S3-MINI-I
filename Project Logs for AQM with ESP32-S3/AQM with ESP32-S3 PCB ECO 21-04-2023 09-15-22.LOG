@@ -1,0 +1,10 @@
+Added Component: Designator=D2(MBR540-DO-201AD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811081224_Jilin-Sino-Microelectronics-MBR540-DO-201AD_C272410.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C272410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Jilin Sino-Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "MBR540-DO-201AD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-201AD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=D2-A
+Added Pin To Net: NetName=VHI Pin=D2-C
+Added Member To Class: ClassName=ESP32-S3 module Member=Component D2 MBR540
