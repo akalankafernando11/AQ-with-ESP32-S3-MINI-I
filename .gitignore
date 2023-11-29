@@ -6,5 +6,5 @@
 **/History/
 # Altium metadata file
 *.PcbDoc.htm
-# Ignore File with logs
-**/Project Logs for AQM with ESP32-C3/
+# Ignore specific directory
+Project Logs for AQM with ESP32-C3/
