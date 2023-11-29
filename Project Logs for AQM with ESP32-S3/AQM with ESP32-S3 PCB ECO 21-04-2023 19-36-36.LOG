@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=IO47 Pin=P15-8
+Removed Pin From Net: NetName=IO26 Pin=P15-9
+Change Component Footprint: Designator=P15 Old Footprint=HDR1X9 New Footprint=HDR1X7
+Change Component Comment : Designator=P15 Old Comment=Header 9 New Comment=Header 7
+Added Component: Designator=P16(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IO26 Pin=P16-1
+Added Pin To Net: NetName=IO47 Pin=P16-2
+Added Member To Class: ClassName=ESP32-S3 module Member=Component P16 Header 2
+Added Room: Name=AQM with esp32
+Added Room: Name=ESP32-S3 module
